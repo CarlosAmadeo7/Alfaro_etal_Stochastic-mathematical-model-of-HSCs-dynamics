@@ -93,7 +93,12 @@ Where:
 1. **params** are the parameters found in each column of the **dataPRCC_ab_all.mat**. The input in the function would be: *dataPRCC(:,1:16)*. The parameters are distributed in 46 columns
 2. **output** is the ouput which is the last column of the **dataPRCC_ab_all.mat**. The input in the function would be: *dataPRCCval_a(:,3)* if you want to see the influence on the **Active LT-HSCs**
 3. **titleplot** is the title of the plot.
-   
+
+## Cite this
+The current job can be found in bioRxiv as: Alfaro-Quinde C, Krstanovic KE, Vásquez PA, Kathrein KL. STOCHASTIC MODELING OF HEMATOPOIETIC STEM CELL DYNAMICS. bioRxiv [Preprint]. 2025 Jan 28:2025.01.27.635091. doi: 10.1101/2025.01.27.635091. PMID: 39974985; PMCID: PMC11838373.
+
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11838373/
+
 ## License
 MIT
 
