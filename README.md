@@ -95,7 +95,8 @@ Where:
 3. **titleplot** is the title of the plot.
 
 ## Cite this
-The current job can be found in bioRxiv as: Alfaro-Quinde C, Krstanovic KE, Vásquez PA, Kathrein KL. STOCHASTIC MODELING OF HEMATOPOIETIC STEM CELL DYNAMICS. bioRxiv [Preprint]. 2025 Jan 28:2025.01.27.635091. doi: 10.1101/2025.01.27.635091. PMID: 39974985; PMCID: PMC11838373.
+The current job can be found in bioRxiv as: 
+Alfaro-Quinde C, Krstanovic KE, Vásquez PA, Kathrein KL. STOCHASTIC MODELING OF HEMATOPOIETIC STEM CELL DYNAMICS. bioRxiv [Preprint]. 2025 Jan 28:2025.01.27.635091. doi: 10.1101/2025.01.27.635091. PMID: 39974985; PMCID: PMC11838373.
 
 URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11838373/
 
